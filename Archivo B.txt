@@ -1,1 +1,2 @@
 creacion del archivo b para el control de versiones 
+cambie y escribe en la seegunda linea
